@@ -1,0 +1,93 @@
+[
+  {
+    "UserId": 1,
+    "Username": "Jin",
+    "Password": "123",
+    "Inventory": [
+      {
+        "Id": 6,
+        "Product": "Chair",
+        "Type": "Wodd",
+        "Amount": 30.0,
+        "Group": "Chairs"
+      }
+    ]
+  },
+  {
+    "UserId": 2,
+    "Username": "Kazuya",
+    "Password": "12345",
+    "Inventory": [
+      {
+        "Id": 7,
+        "Product": "Cabinet",
+        "Type": "Italian Redwood",
+        "Amount": 10.0,
+        "Group": "Italian Series"
+      }
+    ]
+  },
+  {
+    "UserId": 3,
+    "Username": "Bob",
+    "Password": "man",
+    "Inventory": [
+      {
+        "Id": 1,
+        "Product": "Wheat",
+        "Type": "Seed",
+        "Amount": 10.0,
+        "Group": "Food"
+      },
+      {
+        "Id": 2,
+        "Product": "Grape",
+        "Type": "Fruit",
+        "Amount": 30.0,
+        "Group": "Food"
+      },
+      {
+        "Id": 8,
+        "Product": "Banana",
+        "Type": "Fruit",
+        "Amount": 20.0,
+        "Group": "Food"
+      },
+      {
+        "Id": 9,
+        "Product": "Parsley",
+        "Type": "Grass",
+        "Amount": 10.0,
+        "Group": "Food"
+      },
+      {
+        "Id": 10,
+        "Product": "Milk",
+        "Type": "Liquid",
+        "Amount": 70.0,
+        "Group": "Cattle"
+      }
+    ]
+  },
+  {
+    "UserId": 4,
+    "Username": "Mark",
+    "Password": "woaw",
+    "Inventory": [
+      {
+        "Id": 4,
+        "Product": "Table",
+        "Type": "Marble",
+        "Amount": 1.0,
+        "Group": "Marble Group"
+      },
+      {
+        "Id": 5,
+        "Product": "Floor Tiles",
+        "Type": "Decoration",
+        "Amount": 500.0,
+        "Group": "Marble Group"
+      }
+    ]
+  }
+]
