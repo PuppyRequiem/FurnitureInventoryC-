@@ -1,0 +1,114 @@
+[
+  {
+    "UserId": 1,
+    "Username": "Jin",
+    "Password": "123",
+    "Inventory": [
+      {
+        "Id": 6,
+        "Product": "Chair",
+        "Type": "Wodd",
+        "Amount": 30,
+        "Group": "Chairs"
+      }
+    ]
+  },
+  {
+    "UserId": 2,
+    "Username": "Kazuya",
+    "Password": "12345",
+    "Inventory": [
+      {
+        "Id": 11,
+        "Product": "Rocking Chair",
+        "Type": "Wood",
+        "Amount": 6,
+        "Group": "5"
+      },
+      {
+        "Id": 12,
+        "Product": "Italian Bedframe",
+        "Type": "Italian Redwood",
+        "Amount": 50,
+        "Group": "10"
+      },
+      {
+        "Id": 13,
+        "Product": "Table",
+        "Type": "Metal",
+        "Amount": 1,
+        "Group": "Super Hard Tables"
+      },
+      {
+        "Id": 14,
+        "Product": "Bench",
+        "Type": "Sitting",
+        "Amount": 10,
+        "Group": "Outdoors Group"
+      }
+    ]
+  },
+  {
+    "UserId": 3,
+    "Username": "Bob",
+    "Password": "man",
+    "Inventory": [
+      {
+        "Id": 1,
+        "Product": "Wheat",
+        "Type": "Seed",
+        "Amount": 10,
+        "Group": "Food"
+      },
+      {
+        "Id": 2,
+        "Product": "Grape",
+        "Type": "Fruit",
+        "Amount": 30,
+        "Group": "Food"
+      },
+      {
+        "Id": 8,
+        "Product": "Banana",
+        "Type": "Fruit",
+        "Amount": 20,
+        "Group": "Food"
+      },
+      {
+        "Id": 9,
+        "Product": "Parsley",
+        "Type": "Grass",
+        "Amount": 10,
+        "Group": "Food"
+      },
+      {
+        "Id": 10,
+        "Product": "Milk",
+        "Type": "Liquid",
+        "Amount": 70,
+        "Group": "Cattle"
+      }
+    ]
+  },
+  {
+    "UserId": 4,
+    "Username": "Mark",
+    "Password": "woaw",
+    "Inventory": [
+      {
+        "Id": 4,
+        "Product": "Table",
+        "Type": "Marble",
+        "Amount": 1,
+        "Group": "Marble Group"
+      },
+      {
+        "Id": 5,
+        "Product": "Floor Tiles",
+        "Type": "Decoration",
+        "Amount": 500,
+        "Group": "Marble Group"
+      }
+    ]
+  }
+]

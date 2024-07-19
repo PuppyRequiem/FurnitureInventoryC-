@@ -1,0 +1,6 @@
+@FurnitureWebApi_HostAddress = http://localhost:5107
+
+GET {{FurnitureWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
